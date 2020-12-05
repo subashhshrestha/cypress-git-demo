@@ -4,7 +4,7 @@
   "description": "This is my first cypress project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules\\.bin\\cypress run --record --key b5a0cd69-16d5-4a30-ad56-c33a2aec622a"
   },
   "author": "",
   "license": "ISC",
